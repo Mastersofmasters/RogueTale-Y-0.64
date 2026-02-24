@@ -438,7 +438,7 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,GasterBlaster,0,100,0,330,300,760,1.366,0.1;
 0.1,GasterBlaster,0,100,0,330,300,770,1.366,0.1;
 0,GasterBlaster,0,100,0,330,300,780,1.366,0.1;
-0.1,GasterBlaster,0,100,0,330,300,790,1.366,0.1;,2
+0.1,GasterBlaster,0,100,0,330,300,790,1.366,0.1; 2
 0,GasterBlaster,0,100,0,330,300,800,1.366,0.1;,2
 0.1,GasterBlaster,0,100,0,330,300,810,1.366,0.1;,2
 0,GasterBlaster,0,100,0,330,300,820,1.366,0.1;,2
@@ -448,4 +448,5 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,GasterBlaster,0,100,0,330,300,860,1.366,0.1;,2
 
 10,endattack,,,,,,,,
+
 
