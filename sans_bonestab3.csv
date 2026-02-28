@@ -54,15 +54,6 @@
 0,GasterBlaster,1,100,0,451,392,210,0.366,0.1,2
 2,ScreenFlash,1
 1,ScreenFlash,0
-0.5,SansText,"and this is only getting",,
-0,SansText,"Harder from here",,
-0,SansText,"BE GONE",,
-0,SansText,"its finnaly time",,
-0,SansText,"to show my True COLOURS",,
-0,SansText,"Its the end i guess",,
-0,SansText,"NOO i can't let this happen",,
-0,SansText,"BUT it refused",,
-0,SansText,"you used ledengary hero you gained 40 hp and 4+ attack",,
 0,SansText,"so lets get this over with",,
 0,SansText,"You WANT a bad time",,
 0,StopMusic
@@ -85,7 +76,7 @@
 0.8,GasterBlaster,1,180,20,300,150,90,0.1,0.4
 0.2,GasterBlaster,1,180,20,420,150,90,0.1,0.4
 0.2,GasterBlaster,1,180,20,360,420,270,0.1,0.4
-1.5,SansText,"keep dodging."
+1.5,SansText,"keep dodging.",,
 0,SansHead,Wink
 0.5,BoneStab,0,60,1.2,0.6
 0.5,BoneStab,1,60,1.2,0.6
@@ -323,4 +314,5 @@
 1,LoopBlasterRingReverse,320,240,30,6
 6,SansText,"keep up.",,,
 1,EndAttack,,,
+
 
